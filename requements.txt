@@ -2,6 +2,6 @@
 streamlit
 requests
 pandas
-matplotlib==3.8.2
-seaborn==0.13.0
+matplotlib
+seaborn
 numpy
