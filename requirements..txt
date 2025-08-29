@@ -1,7 +1,3 @@
 
 streamlit
-
-numpy     # Future version likely supporting 3.13
-pandas 
-seaborn   # Future version
-matplotlib
+requests
